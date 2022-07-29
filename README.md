@@ -1,4 +1,4 @@
-## Video Streaming Example with Nestjs
+## Video Streaming example with Nestjs
 
 #### What do you need to be done?
 
